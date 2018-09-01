@@ -2,273 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b808f053-8742-410e-889c-eb4aee4f53b2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_01/completed/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_01/start/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_02/completed/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_02/start/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_03/completed/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_03/start/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_04/completed/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_04/start/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_05/completed/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_05/start/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_06/completed/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch02/02_06/start/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/src/App.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/src/App.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/src/App.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/src/logo.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/src/App.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/src/App.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/src/App.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/src/logo.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_01/start/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_02/start/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_03/start/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch04/04_04/start/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_01/start/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_02/start/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch05/05_03/start/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_01/completed/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_01/start/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_02/completed/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_02/start/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_03/start/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_04/start/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/completed/bulletin-board/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/src/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/src/Note.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch06/06_05/start/bulletin-board/src/registerServiceWorker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/public/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/public/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/public/manifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/App.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/App.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/App.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/index.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/logo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/registerServiceWorker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/yarn.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -282,12 +30,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/React Files/Ch02/02_01/start/index.html">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="108">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -301,6 +51,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/React Files/Ch02/02_01/start/index.html" />
+        <option value="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/App.js" />
       </list>
     </option>
   </component>
@@ -309,6 +60,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="78" />
@@ -347,37 +101,48 @@
               <item name="ReactInit" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReactInit" type="462c0819:PsiDirectoryNode" />
               <item name="React Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ReactInit" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReactInit" type="462c0819:PsiDirectoryNode" />
               <item name="React Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="02_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ReactInit" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReactInit" type="462c0819:PsiDirectoryNode" />
               <item name="React Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="02_01" type="462c0819:PsiDirectoryNode" />
-              <item name="completed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReactInit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReactInit" type="462c0819:PsiDirectoryNode" />
-              <item name="React Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="02_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_02" type="462c0819:PsiDirectoryNode" />
               <item name="start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactInit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactInit" type="462c0819:PsiDirectoryNode" />
+              <item name="React Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_02" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+              <item name="bulletin-board" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactInit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactInit" type="462c0819:PsiDirectoryNode" />
+              <item name="React Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_02" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+              <item name="bulletin-board" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,12 +183,13 @@
       <updated>1535756518161</updated>
       <workItem from="1535756519577" duration="1085000" />
       <workItem from="1535760022288" duration="18000" />
-      <workItem from="1535760107639" duration="3675000" />
+      <workItem from="1535760107639" duration="5863000" />
+      <workItem from="1535791416702" duration="204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4778000" />
+    <option name="totallyTimeSpent" value="7170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="-4" width="1303" height="780" extended-state="6" />
@@ -436,7 +202,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -459,11 +225,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/React Files/Ch02/02_01/start/index.html">
+    <entry file="file://$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -471,7 +239,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React Files/Ch02/02_01/start/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -479,7 +253,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="0" column="18571" lean-forward="false" selection-start-line="0" selection-start-column="18571" selection-end-line="0" selection-end-column="18571" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,15 +260,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/React Files/Ch02/02_01/start/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="201">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React Files/Ch03/03_02/start/bulletin-board/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
